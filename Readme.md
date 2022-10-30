@@ -1,0 +1,2 @@
+# Simple Wordpress Blog Theme.
+
